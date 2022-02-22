@@ -2,7 +2,7 @@ Prerequisites: docker with cocker-compose
 
 # Create the directory structures
 
-![enter image description here](https://miro.medium.com/max/672/1*PamiKjceLoGy_nfSmijz1g.png)
+
     $ mkdir Hive
     $ cd Hive
     $ touch docker-compose.yml
